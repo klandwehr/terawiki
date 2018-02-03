@@ -18,6 +18,10 @@ This is a **bold** move.
 To make a word italicized simply put an asterisk * before and after the desired text.
 This is *crazy*
 
+## strikethrough
+To make a text in strikethrough, simply put double tildes ~~ before and after the desired text:
+TeraWiki is ~~terrible~~ AMAZING!
+
 ## Blockquotes
 Blockquotes generally define quotations from other sources but on TeraWiki they can have multiple uses for anything from data diferentiation to showcasing.
 
