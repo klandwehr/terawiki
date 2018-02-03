@@ -22,6 +22,38 @@ To make a word italicized simply put an asterisk * before and after the desired 
 To make a text in strikethrough, simply put double tildes ~~ before and after the desired text:
 `TeraWiki is ~~terrible~~ AMAZING!` :arrow_right: TeraWiki is ~~terrible~~ AMAZING!
 
+## Headers
+To define a line as a header, simply put a hash sign # at the beginning. The amount of consecutive # you insert defines the level of the header.
+
+```text
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+```
+
+Example:
+
+
+```text
+# Section A
+
+## Sub-section A.1
+
+### Sub-sub-section A.1.1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at sapien at odio fringilla lobortis.
+
+# Section B
+
+Etc...
+```
+In the above example, Section A and B are top level headers and Section A has a sub-header (A.1), which contains a sub-header (A.1.1).
+
+
+
 ## Blockquotes
 Blockquotes generally define quotations from other sources but on TeraWiki they can have multiple uses for anything from data diferentiation to showcasing.
 
