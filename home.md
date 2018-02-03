@@ -101,3 +101,30 @@ Simply add the desired styling class below your blockquote:
 {.is-danger}
 ```
 
+## Lists
+Unordered lists can be defined using a dash at the beginning of every line:
+
+```text
+- Item 1
+- Item 2
+- Item 3
+```
+
+Ordered lists can be defined using numbers:
+
+```text
+1. Item
+2. Item
+3. Item
+```
+
+## Links
+Links to other page or external webpages are defined using the following syntax:
+
+```text
+[Internal Link Title](/path/to/page)
+[External Link Title](https://www.google.com/)
+```
+A special icon is automatically displayed next to external links to denote the user will leave the site if clicked.
+
+
