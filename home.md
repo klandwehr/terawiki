@@ -99,6 +99,11 @@ you don't have to pick an identifier and move down to type the
 note.]
 ```
 
+## Icons (emojis)
+All emoji codes begins and ends with a colon :
+`:apple:`  :apple: 
+`:date:`  :date: 
+You can see the full list of available emojis [here](https://www.webpagefx.com/tools/emoji-cheat-sheet/ "Emoji Cheat Sheet")
 
 # Headers
 To define a line as a header, simply put a hash sign # at the beginning. The amount of consecutive # you insert defines the level of the header.
