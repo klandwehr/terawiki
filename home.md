@@ -13,7 +13,7 @@ If you would like to know more about the specifics of how this wiki works then k
 # Styling with TeraWiki
 ## Bold Text
 To make a text in bold, simply put double asterisks ** before and after the desired text:
-To **boldly** go  :To: boldly go
+To **boldly** go  To boldly go
 
 ## Blockquotes
 Blockquotes generally define quotations from other sources but on TeraWiki they can have multiple uses for anything from data diferentiation to showcasing.
