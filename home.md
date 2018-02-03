@@ -128,3 +128,15 @@ Links to other page or external webpages are defined using the following syntax:
 A special icon is automatically displayed next to external links to denote the user will leave the site if clicked.
 
 
+# Images
+Images can be inserted in almost the same way as links. They simply require an extra ! at the beginning:
+
+```text
+![Image Caption](http://link.to/image.jpg)
+```
+
+# Code
+## Inline
+Inline code provide a quick way to insert code / commands without creating a standalone code block. They are enclosed by a single back-tick:
+`This is an inline code`
+
