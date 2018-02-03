@@ -12,15 +12,15 @@ If you would like to know more about the specifics of how this wiki works then k
 ## Bold Text
 To make a text in bold, simply put double asterisks ** before and after the desired text.
 
-This is a **bold** move :arrow_right: This is a **bold** move.
+`This is a **bold** move` :arrow_right: This is a **bold** move.
 
 ## italics
 To make a word italicized simply put an asterisk * before and after the desired text.
-This is *crazy* :arrow_right: This is *crazy*
+`This is *crazy*` :arrow_right: This is *crazy*
 
 ## strikethrough
 To make a text in strikethrough, simply put double tildes ~~ before and after the desired text:
-TeraWiki is ~~terrible~~ AMAZING! :arrow_right: TeraWiki is ~~terrible~~ AMAZING!
+`TeraWiki is ~~terrible~~ AMAZING!` :arrow_right: TeraWiki is ~~terrible~~ AMAZING!
 
 ## Blockquotes
 Blockquotes generally define quotations from other sources but on TeraWiki they can have multiple uses for anything from data diferentiation to showcasing.
