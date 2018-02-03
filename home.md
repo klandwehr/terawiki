@@ -101,6 +101,12 @@ Simply add the desired styling class below your blockquote:
 {.is-danger}
 ```
 
+## Horizontal Rule
+Simply put three (3) of the following characters to create an horizontal rule: *** (asterisks) or --- (hyphens)
+
+Which results in:
+---
+
 # Lists
 Unordered lists can be defined using a dash at the beginning of every line:
 
