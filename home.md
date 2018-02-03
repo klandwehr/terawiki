@@ -98,6 +98,10 @@ you don't have to pick an identifier and move down to type the
 note.]
 ```
 
+Here is one in use. I am using the Wiki.js[^1] documentation almost verbatim to show how to edit pages!
+[^1]: Wiki.js.org is amazing
+	This shouldn't be a surprise though.
+
 ## Icons (emojis)
 All emoji codes begins and ends with a colon :
 `:apple:`  :apple: 
