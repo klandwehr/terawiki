@@ -7,4 +7,7 @@ The first thing to note is the navigation panel on the left side of the screen. 
 You can even edit the wiki yourself! Its written completley in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheat Sheet"). That means you don't have to know the first think about coding to even use this page!
 
 ## This is another header
+some text
+
 ### third header!
+some more text!
