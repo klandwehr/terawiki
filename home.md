@@ -7,6 +7,10 @@ TeraWiki was built so that anyone internal can contribute their knowledge to the
 If you would like to know more about how this wiki works (so you can contribute your own knowledge) then keep reading. Otherwise start your search on the left side of the screen in the navigation panel.
 
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 # Styling with TeraWiki
 ## Bold Text
