@@ -196,3 +196,20 @@ on.multiple(lines) {
 }
 ```
 
+# Tables
+There must be at least 3 dashes separating each header cell and pipes ( | ) between each column are required.
+
+
+```text
+Markdown | is | Ugly
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+```
+
+Markdown | is | Ugly
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+Wiki.js contributers are making a nicer solution to this problem but for now this is how we have to do it.
