@@ -92,9 +92,13 @@ belong to the previous footnote.
 ```
 
 You can also inline footnotes directly:
+
+```text
 Here is an inline note.^[Inlines notes are easier to write, since
 you don't have to pick an identifier and move down to type the
 note.]
+```
+
 
 # Headers
 To define a line as a header, simply put a hash sign # at the beginning. The amount of consecutive # you insert defines the level of the header.
