@@ -101,7 +101,7 @@ Simply add the desired styling class below your blockquote:
 {.is-danger}
 ```
 
-## Lists
+# Lists
 Unordered lists can be defined using a dash at the beginning of every line:
 
 ```text
@@ -118,7 +118,7 @@ Ordered lists can be defined using numbers:
 3. Item
 ```
 
-## Links
+# Links
 Links to other page or external webpages are defined using the following syntax:
 
 ```text
