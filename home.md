@@ -11,3 +11,10 @@ You can write sub-content in your pages and it will automatically fill into the 
 
 ### The third header option
 does nothing 
+
+
+-----
+
+
+
+# A new section
