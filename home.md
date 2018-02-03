@@ -76,6 +76,18 @@ Simply put three (3) of the following characters to create an horizontal rule: *
 Which results in:
 ***
 
+## Footnotes
+You can easily add footnote references using the [^x] syntax (where x is a number or name):
+
+Here is a footnote reference,[^1] and another.[^longnote]
+
+[^1]: Here is the footnote.
+
+[^longnote]: Here's one with multiple blocks.
+
+    Subsequent paragraphs are indented to show that they
+belong to the previous footnote.
+
 # Headers
 To define a line as a header, simply put a hash sign # at the beginning. The amount of consecutive # you insert defines the level of the header.
 
