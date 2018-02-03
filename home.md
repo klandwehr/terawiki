@@ -98,9 +98,9 @@ you don't have to pick an identifier and move down to type the
 note.]
 ```
 
-Here is one in use. I am using the Wiki.js[^1] documentation almost verbatim to show how to edit pages!
-[^1]: Wiki.js.org is amazing
-	This shouldn't be a surprise though.
+Here is one in use: I am a footnote[^example_footnote], look at the bottom of the page to see what I have written or click the number to take you directly there.
+
+[^example_footnote]: This is an exciting page, TeraRecon employees will really be able to get the information they need quickly with this site!
 
 ## Icons (emojis)
 All emoji codes begins and ends with a colon :
