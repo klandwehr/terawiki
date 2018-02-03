@@ -14,6 +14,10 @@ To make a text in bold, simply put double asterisks ** before and after the desi
 
 This is a **bold** move.
 
+## italics
+To make a word italicized simply put an asterisk * before and after the desired text.
+This is *crazy*
+
 ## Blockquotes
 Blockquotes generally define quotations from other sources but on TeraWiki they can have multiple uses for anything from data diferentiation to showcasing.
 
