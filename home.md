@@ -36,7 +36,12 @@ Another fun thing to do is to style the blockquote. There are 5 block quote styl
 
 >Warning
 {.is-warning}
-`
+
 >Danger
 {.is-danger}
-`
+
+
+```text
+you can write them like this
+```
+
