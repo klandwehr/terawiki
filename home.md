@@ -40,8 +40,21 @@ Another fun thing to do is to style the blockquote. There are 5 block quote styl
 >Danger
 {.is-danger}
 
+Simply add the desired styling class below your blockquote:
 
 ```text
-you can write them like this
+> Default
+
+> Info
+{.is-info}
+
+> Success
+{.is-success}
+
+> Warning
+{.is-warning}
+
+> Danger
+{.is-danger}
 ```
 
