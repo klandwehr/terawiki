@@ -165,5 +165,5 @@ var sample = 'code';
 on.multiple(lines) {
     cool();
 }
-`````
+```
 ```
