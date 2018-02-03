@@ -23,3 +23,19 @@ You can even write multiline blockquotes by continuing your next line with anoth
 >This is a multiline blockquote
 >
 >It's really easy to use!
+
+Another fun thing to do is to style the blockquote. There are 5 block quote styles:
+
+>Default
+
+>Info
+{.is-info}
+
+>Success
+{.is-success}
+
+>Warning
+{.is-warning}
+
+>Danger
+{.is-danger}
