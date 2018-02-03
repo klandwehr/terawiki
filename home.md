@@ -12,7 +12,7 @@ If you would like to know more about the specifics of how this wiki works then k
 ## Bold Text
 To make a text in bold, simply put double asterisks ** before and after the desired text.
 
-This is a **bold** move. :right arrow:
+This is a **bold** move. :rightarrow:
 
 ## italics
 To make a word italicized simply put an asterisk * before and after the desired text.
