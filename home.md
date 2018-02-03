@@ -11,3 +11,15 @@ If you would like to know more about the specifics of how this wiki works then k
 
 
 # Styling with TeraWiki
+## Blockquotes
+Blockquotes generally define quotations from other sources but on TeraWiki they can have multiple uses for anything from data diferentiation to showcasing.
+
+To start a block quote all you need to do is begin your line with >
+
+>This is a blockquote!
+
+You can even write multiline blockquotes by continuing your next line with another >
+
+>This is a multiline blockquote
+>
+>It's really easy to use!
