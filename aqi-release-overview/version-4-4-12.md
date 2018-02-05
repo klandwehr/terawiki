@@ -92,3 +92,7 @@ Major maintenance release for iNtuition
 
 ## Others
 - Auto Configurations of VPCUDA & VLI
+
+---
+
+# Beta
