@@ -179,6 +179,7 @@ Inline code provide a quick way to insert code / commands without creating a sta
 ```text
 `This is an inline code`
 ```
+`This is an inline code`
 ## Block
 If your code requires multiple lines or you need syntax highlighting, it is preferrable to use code blocks. They are enclosed by triple backticks:
 
