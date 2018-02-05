@@ -148,9 +148,10 @@ Major maintenance release for iNtuition
 
 ## TDA delay correction 
 - under HKEY_LOCAL_MACHINE\SOFTWARE\TeraRecon\Aquarius\AQNet\Plugins\PluginTDA
-- if DelayCorrection =-1, it will affect all GE perfusion data
-- if DelayCorrection =0, it won't affect any perfusion data (default)
-- if DelayCorrection =1, it will affect all perfusion data
+> - if DelayCorrection =-1, it will affect all GE perfusion data
+> - if DelayCorrection =0, it won't affect any perfusion data (default)
+> - if DelayCorrection =1, it will affect all perfusion data
+{.is-info}
 
 ## Embedded geometry for EVAR
 - In"C:\AQi\Config\AQi.cfg",  add a line "EnableEmbeddedGeometry=true".
