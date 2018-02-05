@@ -122,7 +122,7 @@
 
 ## Uploader / Cloud / iShare
 - Ability to edit two private tages in the dicom data uploaded
-- 
+
 ## Others
 * One box to set hostname/ip for dicom node 
 * Checksum tool to check integrity of the binaries during transmission and storage
