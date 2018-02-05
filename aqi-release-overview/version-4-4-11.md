@@ -182,17 +182,17 @@
 * LowAtt Area measurement (LAA)
 * FT usability improvements
 * Finding workflow improvements
-* ~~Auto lobe segmentation (Liver, Lung) (BETA)
-* Vertebral / rib cage labeling (BETA)
-* CT/SPECT fusion (BETA)
-* LAA scoring (BETA)
-* Embedded Geometry (BETA)
-* Multi-touch support & Shift+Ctrl GUI (BETA)
-* Finding workflow - Measurement on follow up (simple, candidates) (BETA)
-* Color candidate marker (BETA)
-* Multi-mask - exclude masks (BETA)
-* EF measurement (BETA)
-* Web base report (BETA)~~
+* ~~Auto lobe segmentation (Liver, Lung) (BETA)~~
+* ~~Vertebral / rib cage labeling (BETA)~~
+* ~~CT/SPECT fusion (BETA)~~
+* ~~LAA scoring (BETA)~~
+* ~~Embedded Geometry (BETA)~~
+* ~~Multi-touch support & Shift+Ctrl GUI (BETA)~~
+* ~~Finding workflow - Measurement on follow up (simple, candidates) (BETA)~~
+* ~~Color candidate marker (BETA)~~
+* ~~Multi-mask - exclude masks (BETA)~~
+* ~~EF measurement (BETA)~~
+* ~~Web base report (BETA)~~
 
 ## Thin Client new features 
 > N/A
