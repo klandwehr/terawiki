@@ -68,4 +68,4 @@ Major maintenance release for iNtuition
 ### Portrait Monitor support
 
 ## Thin Client new features 
-## Option to load with/without auto tilt/rotate
+### Option to load with/without auto tilt/rotate
