@@ -137,7 +137,7 @@ Major maintenance release for iNtuition
 ## ~~EF measurement Quick EF measurement from general viewer~~
 - ~~In "C:\AQi\Config\AQi.cfg, add "EnableEFMeasurement  = True"~~
 
-## ~~Color candidate marker ~~
+## ~~Color candidate marker~~
 - ~~In "C:\AQi\Config\AQi.cfg, add "EnableSATMarkersColor = True"~~
 
 ## ~~LD2 auto lobe segmentation~~
