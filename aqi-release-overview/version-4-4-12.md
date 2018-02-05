@@ -134,3 +134,44 @@ Major maintenance release for iNtuition
 ## Toshiba MR flow - S8381
 - In "C:\AQi\Config\AQi.cfg, add "SupportToshibaMRFlow=True"
 
+## ~~EF measurement Quick EF measurement from general viewer~~
+- ~~In "C:\AQi\Config\AQi.cfg, add "EnableEFMeasurement  = True"~~
+
+## ~~Color candidate marker ~~
+- ~~In "C:\AQi\Config\AQi.cfg, add "EnableSATMarkersColor = True"~~
+
+## ~~LD2 auto lobe segmentation~~
+- ~~In "C:\AQi\Config\AQi.cfg, add "EnableLD2Auto = True"~~
+
+## ~~CMR - Delayed enhacement~~
+- ~~In "C:\AQi\Config\AQi.cfg, add "EnableDelayedEnhancement = True"~~
+
+## TDA delay correction 
+- under HKEY_LOCAL_MACHINE\SOFTWARE\TeraRecon\Aquarius\AQNet\Plugins\PluginTDA
+- if DelayCorrection =-1, it will affect all GE perfusion data
+- if DelayCorrection =0, it won't affect any perfusion data (default)
+- if DelayCorrection =1, it will affect all perfusion data
+
+## Embedded geometry for EVAR
+- In"C:\AQi\Config\AQi.cfg",  add a line "EnableEmbeddedGeometry=true".
+
+## Data quality control - display study DICOM report
+- In"C:\AQi\Config\AQi.cfg", EnableShowDicomInforMenu = True
+
+## Save COF from WFT - S6522
+- In "C:\AQi\Config\AQi.cfg, add "EnableSaveCOF=True"
+
+## Vertebral labeling - S8280
+- In "C:\AQi\Config\AQi.cfg, add "EnableVertebraLabeling=True"
+
+## Exclude multi mask - S7111
+- In "C:\AQi\Config\AQi.cfg, add "EnableNewMultiMask=True"
+
+## MultiTouch
+- In "C:\AQi\Config\AQi.cfg, add "EnableMultiTouch=True"
+
+## Follow up measurement
+- In "C:\AQi\Config\AQi.cfg, add "AutoPerformFollowUpMeasurement=True"
+
+## LowAtt LAA score
+- In "C:\AQi\Config\AQi.cfg, add "EnableLowAttScoret=True"
