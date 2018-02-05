@@ -69,3 +69,16 @@ Major maintenance release for iNtuition
 
 ## Thin Client new features 
 ### Option to load with/without auto tilt/rotate
+
+## iReview new features
+### Mirrored ROI measurement
+### Real world mapping support
+
+## APS new features
+### Plug and play - CTA related clinical protocol support
+### Whole chest bone removal
+
+## iEMV/Web viewer (non-diagnostic viewer when used on mobile)
+> N/A
+{is.danger}
+
