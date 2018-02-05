@@ -80,5 +80,15 @@ Major maintenance release for iNtuition
 
 ## iEMV/Web viewer (non-diagnostic viewer when used on mobile)
 > N/A
-{is.danger}
+{.is-danger}
 
+## PACS integration
+> N/A
+{.is-danger}
+
+## Uploader / Cloud / iShare
+> N/A
+{.is-danger}
+
+## Others
+### Auto Configurations of VPCUDA & VLI
