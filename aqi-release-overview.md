@@ -68,15 +68,15 @@ Major maintenance release for iNtuition
 ### Portrait Monitor support
 
 ## Thin Client new features 
-### Option to load with/without auto tilt/rotate
+- Option to load with/without auto tilt/rotate
 
 ## iReview new features
-### Mirrored ROI measurement
-### Real world mapping support
+- Mirrored ROI measurement
+- Real world mapping support
 
 ## APS new features
-### Plug and play - CTA related clinical protocol support
-### Whole chest bone removal
+- Plug and play - CTA related clinical protocol support
+- Whole chest bone removal
 
 ## iEMV/Web viewer (non-diagnostic viewer when used on mobile)
 > N/A
@@ -91,4 +91,4 @@ Major maintenance release for iNtuition
 {.is-danger}
 
 ## Others
-### Auto Configurations of VPCUDA & VLI
+- Auto Configurations of VPCUDA & VLI
