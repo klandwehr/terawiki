@@ -1,5 +1,5 @@
-<!-- TITLE: Version 4 4 12 -->
-<!-- SUBTITLE: A quick summary of Version 4 4 12 -->
+<!-- TITLE: Version 4.4.12 -->
+<!-- SUBTITLE: A quick summary of Version 4.4.12 -->
 
 # Version 4.4.12
 ## Scope
