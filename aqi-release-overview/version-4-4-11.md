@@ -255,7 +255,7 @@
 ### TDA MR
 - GE Data Support
 
-### ~~Lesion Specific Analysis (LSA) - BETA ~~
+### ~~Lesion Specific Analysis (LSA) - BETA~~
 ### BFA 3D (out of beta)
 ### LD2
 * Auto segmentation engine options 
