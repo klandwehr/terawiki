@@ -107,3 +107,30 @@ Major maintenance release for iNtuition
 - Right click on measurement and select “show/hide details.”
 - Check to add “Shape Compactness” and click OK.
 - Beta message will be displayed.
+
+## S3238 [TDA] Body CT Perfusion
+- In "C:\AQi\Config\AQi.cfg, add "EnableBetaFunction = True"
+- Load body CT perfusion data into TDA (Body) workflow
+
+## Histogram beta for MR
+- In "C:\AQi\Config\AQi.cfg, add "EnableHistogramForMR = True"
+
+## iReview - AqLOC
+- In "C:\AQNetConfig, add "EnableBeta = 1" 
+>BETA can be configured globally in this file, or by machine name. To configure BETA per machine, a section in the format [PC-NAME] must be created in the config file.
+{.is-info}
+
+## iReview - Non-validated mammo CAD
+- In "C:\AQNetConfig, add "EnableBeta = 1" 
+> BETA can be configured globally in this file, or by machine name. To configure BETA per machine, a section in the format [PC-NAME] must be created in the config file.
+{.is-info}
+
+## TA2895 TDA MR support non-validated manufacturer 
+- In "C:\AQi\Config\AQi.cfg, add "EnableBetaFunction = True"
+
+## TDA-Flow non-validated flow data
+- In "C:\AQi\Config\AQi.cfg, add "AllowToUseFlowAnyData= True"
+
+## Toshiba MR flow - S8381
+- In "C:\AQi\Config\AQi.cfg, add "SupportToshibaMRFlow=True"
+
