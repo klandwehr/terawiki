@@ -29,7 +29,7 @@
 
 ## APS new features
 > N/A
-{.is-danger]
+{.is-danger}
 
 ## iEMV/Web viewer (non-diagnostic viewer when used on mobile)
 - Manual import for non-DICOM files
@@ -40,11 +40,11 @@
 
 ## PACS integration
 > N/A
-{.is-danger]
+{.is-danger}
 
 ## Uploader / Cloud / iShare
 > N/A
-{.is-danger]
+{.is-danger}
 
 ## Others
 -Fix for Permanent license expiry on 2015/12/31 issue
