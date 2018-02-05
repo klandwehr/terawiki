@@ -95,4 +95,15 @@ Major maintenance release for iNtuition
 
 ---
 
-# Beta
+# Version 4.4.12 Beta
+
+## S4331 [SAT] Add surface area - Shape Compactness 
+> Request to have surface area by MUSC.  Instead of having surface area, shape index is added.  The value is normalized from 0 to 100.  Value 100 means perfect sphere. 
+{.is-info}
+
+- Load a lung study.
+- Open SAT tool panel, click on "New" button, choose "single click" and "nodule" mode, "shift"+click on a nodule seed point.
+- After the segmentation is done, measurement result will display.
+- Right click on measurement and select “show/hide details.”
+- Check to add “Shape Compactness” and click OK.
+- Beta message will be displayed.
