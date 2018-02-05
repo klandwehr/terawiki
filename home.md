@@ -23,7 +23,7 @@ To make a text in strikethrough, simply put double tildes ~~ before and after th
 
 
 ## Blockquotes
-Blockquotes generally define quotations from other sources but on TeraWiki they can have multiple uses for anything from data diferentiation to showcasing.
+Blockquotes generally define quotations from other sources but on TeraWiki they can have multiple uses for anything from data differentiation to showcasing.
 
 To start a block quote all you need to do is begin your line with >
 
