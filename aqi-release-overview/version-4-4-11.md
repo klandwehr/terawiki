@@ -22,7 +22,7 @@
 - non-target lesion to be PD if base is available
 ## Thin Client new features 
 > N/A
-{.is-danger]
+{.is-danger}
 
 ## iReview new features
 - C-find list merge to local - ability to show remote data in different color
