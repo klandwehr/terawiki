@@ -27,5 +27,5 @@ PC | Update for 4.4.11 P2, Merge OC & OD (4.4.8 P3/P4) | Miyoko Nishikawa | 2014
 PD | Update for 4.4.11 P3 | Miyoko Nishikawa | 2014 Oct 14
 PE | Update for 4.4.11 P4, 4A, 5, 4.4.8 P1 ROD | Miyoko Nishikawa | 2015 May 5
 PF | Update for 4.4.11 P6 | Miyoko Nishikawa | 2015 May 27
-Q | Update for 4.4.12 | Miyoko Nishikawa | 2015 Jun 23
+Q | [Update for 4.4.12](/aqi-release-overview/version-4-4-12) | Miyoko Nishikawa | 2015 Jun 23
 
