@@ -15,11 +15,11 @@ H | Added Beta Feature Tab | Miyoko Nishikawa | 2010 Feb 16
 I | Added preference default tabs (EN, JP) | Miyoko Nishikawa | 2010 Jul 27
 J | [Update for 4.4.6](/aqi-release-overview/version-4-4-6) | Miyoko Nishikawa | 2010 Dec 7
 K | [Update for 4.4.7](/aqi-release-overview/version-4-4-7) | Miyoko Nishikawa | 2011 Jul 11
-L | [Update for 4.4.7 P1](version-4-4-7/patch-1) | Miyoko Nishikawa | 2011 Dec 6
-M | [Update for 4.4.7 P2](version-4-4-7/patch-2) | Miyoko Nishikawa | 2012 Mar 27
-N | [Update for 4.4.7 P3](version-4-4-7/patch-3) | Miyoko Nishikawa | 2012 Apr 19
+L | [Update for 4.4.7 P1](/version-4-4-7/patch-1) | Miyoko Nishikawa | 2011 Dec 6
+M | [Update for 4.4.7 P2](/version-4-4-7/patch-2) | Miyoko Nishikawa | 2012 Mar 27
+N | [Update for 4.4.7 P3](/version-4-4-7/patch-3) | Miyoko Nishikawa | 2012 Apr 19
 O | [Update for 4.4.8](/aqi-release-overview/version-4-4-8) | Miyoko Nishikawa | 2012 Aug 17
-Q | [Update for 4.4.7 P4](version-4-4-7/patch-4) | Miyoko Nishikawa | 2013 Feb 12
+Q | [Update for 4.4.7 P4](/version-4-4-7/patch-4) | Miyoko Nishikawa | 2013 Feb 12
 P | [Update for 4.4.11](/aqi-release-overview/version-4-4-11) | Miyoko Nishikawa | 2013 Feb 12
 PA | Update for 4.4.11 P1 | Miyoko Nishikawa | 2013 Jul 9
 PB | Merge Rev. OA (4.4.8 P1) | Miyoko Nishikawa | 2013 Jul 11
