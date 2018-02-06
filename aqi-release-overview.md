@@ -1,7 +1,7 @@
 <!-- TITLE: AQI Release Overview -->
 <!-- SUBTITLE: This page summarizes design and development plan of Aquarius iNtutition Edition, for each version to give an overview of the releases. -->
 
-# AQI Release Dates
+# AQI Release Dates & Links
 Revision Level | Description | Revised By | Date
 --- | --- | --- | ---
 A | [Update for 4.4](/aqi-release-overview/version-4-4) | Miyoko Nishikawa | N/A
