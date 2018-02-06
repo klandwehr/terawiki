@@ -21,7 +21,7 @@ N | [Update for 4.4.7 P3](/aqi-release-overview/version-4-4-7/patch-3) | Miyoko 
 O | [Update for 4.4.8](/aqi-release-overview/version-4-4-8) | Miyoko Nishikawa | 2012 Aug 17
 Q | [Update for 4.4.7 P4](/aqi-release-overview/version-4-4-7/patch-4) | Miyoko Nishikawa | 2013 Feb 12
 P | [Update for 4.4.11](/aqi-release-overview/version-4-4-11) | Miyoko Nishikawa | 2013 Feb 12
-PA | Update for 4.4.11 P1 | Miyoko Nishikawa | 2013 Jul 9
+PA | [Update for 4.4.11 P1](/aqi-release-overview/version-4-4-11/patch-1) | Miyoko Nishikawa | 2013 Jul 9
 PB | Merge Rev. OA (4.4.8 P1) | Miyoko Nishikawa | 2013 Jul 11
 PC | Update for 4.4.11 P2, Merge OC & OD (4.4.8 P3/P4) | Miyoko Nishikawa | 2014 Jan 6
 PD | Update for 4.4.11 P3 | Miyoko Nishikawa | 2014 Oct 14
