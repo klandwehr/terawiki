@@ -8,7 +8,7 @@ A | [Update for 4.4](/aqi-release-overview/version-4-4) | Miyoko Nishikawa | N/A
 B | Revised based on developer's feedbacks | Miyoko Nishikawa | 2009 Feb 2
 C | [Update for 4.4.1](/aqi-release-overview/version-4-4-1) | Miyoko Nishikawa | 2009 Feb 26
 D | [Update for 4.4.2](/aqi-release-overview/version-4-4-2) | Miyoko Nishikawa | 2009 Apr 10
-E | [Update for 4.4.3](/aqi-release-overview/version-4-4) | Miyoko Nishikawa | 2009 Jun 17
+E | [Update for 4.4.3](/aqi-release-overview/version-4-4-3) | Miyoko Nishikawa | 2009 Jun 17
 F | [Update for 4.4.4](/aqi-release-overview/version-4-4-4) | Miyoko Nishikawa | 2009 Sept 9
 G | [Update for 4.4.5](/aqi-release-overview/version-4-4-5) | Miyoko Nishikawa | 2010 Feb 8
 H | Added Beta Feature Tab | Miyoko Nishikawa | 2010 Feb 16
