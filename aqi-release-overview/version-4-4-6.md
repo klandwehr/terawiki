@@ -73,3 +73,59 @@
 ### Measurement
 *   Option to add initial and scanning date
 *   Option to display all measurement tools and continuous use
+
+
+## ThinClient new features
+* Volume measurement
+* Add table position (location) - 4.4.5 patch
+### CT/PET improvement
+*    3 time point
+### Batch
+*    Server side capture (speed up batch)
+
+## APS new features
+* Default clinical protocol updated
+* [APS-ParametricMap] Handle the scan which includes both non-subtracted and subtracted data
+* Auto anonymizer - Formal release
+* Anonymize and download ability to open with free viewer for standalone APS
+### Processor new/improvements
+*    Volume Filter for (Noise Treatment with Less Exposure)
+*    [iCAD] VeraLook v1.1 support 
+*    Head mount removal
+*   Auto body centerline improvement
+
+## Web viewer (non-diagnostic viewer)
+* Add table position (location)
+
+## PACS integration
+* Ability to load user settings after login with shared/shared (AQi)
+* McKesson color scheme fix (AQi)
+
+## AqGate
+* AqGate fail over support
+* Round-robin push (S4844 - Not tested yet 12/14/2010)
+* Backup mode
+
+## Others
+* Multiple LDAP server configuration through web admin page  
+* Export / Import user settings
+* Ability to reclaim disk space
+* Published link authentication exemption based on hostname or IP addresses
+* Data deletion improvement (faster and safer)
+* VCC support
+* VMWare support
+* Windows 2000 support as server backend
+* Standalone web server (DMZ) - beta
+### Multi-Language support
+*    Portuguese support (AQi, ThinClient, AqNET Webadmin, Web viewer)
+*    Chinese support for AqNET
+*    German support for AqNET
+*    French support for Free Viewer (non-diagnostic viewer) 
+### iUploader
+*    Compression
+*    Standard SSL through https instead of custom encryption
+### License
+*    Standalone concurrent
+*    Grace period reduced from 24 hrs to 2 hrs
+*    License expiration date "permanent" instead of 12/31/2015"
+
