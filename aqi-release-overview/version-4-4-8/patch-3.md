@@ -32,6 +32,12 @@
 ## iReview new features
 * PET, SUV support
 * 2D Fusion (BETA)
+* Triangulation support (Alt+Click)
+* Eizo 10 bit monitor support
+* AqConference via gotomeeting
+* High-resolution image display 
+* AqNET user group rights
+
 ### Measurement improvements
 *    Ratio tool, Center Angle, Oblique ellipse
 *    TIC from mulitple slices
@@ -39,13 +45,44 @@
 *    Measurement on Ultrasound images
 *    Measurement viewer
 
-* Triangulation support (Alt+Click)
-
 ### DICOM import
 *    Manual non-DICOM import
 *    DICOM import with data consolidation 
 
-* Eizo 10 bit monitor support
-* AqConference via gotomeeting
-* High-resolution image display 
-* AqNET user group rights 
+
+## APS/Plugin new features
+* Stitch with interpolation
+
+## iEMV/Web viewer (non-diagnostic viewer)
+* Multi-selection of study/series list
+* Folder list
+* W/L preset edit & min/max, color LUT support
+* PET, SUV support
+* 2D Fusion (BETA)
+* DICOM push from patient list
+* DICOM header view
+* Option to launch VCC ThinClient viewer / AQi viewer from web viewer
+* Download/push/anonymize from Web viewer patient list
+
+## PACS integration
+* Multiphase series / sub-series launch imprevement on ThinClient
+* Ability to load associated scene file even when specified series UID is called
+
+## Uploader / Cloud / iShare
+* Option to disable auto-update of uploader
+* User rights to upload only (no download allowed)
+
+## Others
+* Office 2013
+* Configurable AquariusShared destination folder
+* Anonymization support via auto-uploader path
+* Ability to delete user configured private tags
+* Conversion before routing option via auto-uploader path
+* Option to remove patient information from secondary capture images
+* Auto-route original series only if any 3D post processing is performed (AHS specific)
+* Generic decryption API
+* Extend grace period 
+* SWL for virtualized servers
+* Enhanced MRI (Send/receive/store)
+* Usage Tracking
+* CS tool to convert multiple TRD to DCM 
