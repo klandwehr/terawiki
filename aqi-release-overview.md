@@ -25,7 +25,7 @@ PA | [Update for 4.4.11 P1](/aqi-release-overview/version-4-4-11/patch-1) | Miyo
 PB | Merge Rev. OA (4.4.8 P1) | Miyoko Nishikawa | 2013 Jul 11
 PC | [Update for 4.4.11 P2](/aqi-release-overview/version-4-4-11/patch-2), Merge OC & OD (4.4.8 P3/P4) | Miyoko Nishikawa | 2014 Jan 6
 PD | [Update for 4.4.11 P3](/aqi-release-overview/version-4-4-11/patch-3-interact-1-0) | Miyoko Nishikawa | 2014 Oct 14
-PE | [Update for 4.4.11 P4](/aqi-release-overview/version-4-4-11/patch-4-interact-1-1), [4A](/aqi-release-overview/version-4-4-11/patch-4-a-interact-1-1), [5](/aqi-release-overview/version-4-4-11/patch-5-interact-1-2), 4.4.8 P1 ROD | Miyoko Nishikawa | 2015 May 5
+PE | [Update for 4.4.11 P4](/aqi-release-overview/version-4-4-11/patch-4-interact-1-1), [4A](/aqi-release-overview/version-4-4-11/patch-4-a-interact-1-1), [5](/aqi-release-overview/version-4-4-11/patch-5-interact-1-2), [4.4.8 P1 ROD](/aqi-release-overview/version-4-4-8/patch-1-rod) | Miyoko Nishikawa | 2015 May 5
 PF | Update for 4.4.11 P6 | Miyoko Nishikawa | 2015 May 27
 Q | [Update for 4.4.12](/aqi-release-overview/version-4-4-12) | Miyoko Nishikawa | 2015 Jun 23
 
