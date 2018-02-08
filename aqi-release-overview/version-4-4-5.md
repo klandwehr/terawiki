@@ -92,13 +92,32 @@
 
 # 4.4.5 Beta Features
 ## S4370 [TVA] Colored Motion
+* "In ""C:\AQi\Bin\AQi.exe.config"", change ""EnableColoredMotion"" from ""False"" to ""True"".
+* Load 4D data into Cardiac workflow. Do ""EF"".
+* Confirm that ""Motion"" button is on the Result tab of control panel when calculation is done.
+* Press ""Motion"". Confirm that ""Colored Motion"" dialog box pops up. Images play cine automatically until color map is displayed for systolic motion.
+* Click on ""Diastolic"" radio button. Confirm that images play cine automatically until color map is displayed for diastolic motion."					
 
 ## "S3173 [CPR] Improvement for root definition
 >Request to have better root definition to avoid the looping carotid issue. "
 {.is-info}
+* "Open ""C:\AQi\Bin\AQi.exe.config"" using NotePad.
+* Find ""DetermineRootByRadius"" near the end. Change its value to ""True"".
+* Load carotid case in AQi (any workflow).
+* Press ""CPR"". Change to ""Normal"" mode.
+* Hold Shift key, click down at internal carotid artery and drag down to aortic arch (or just above it). When centerline appears, confirm that the root (red dot) is at below. Also confirm that the CPR view is correct upright direction.
+* Hold Shift key, single-click at external carotid artery. Confirm that the branch is added, and the path is from external carotid to aorta, and the CPR view is correct upright direction."					
+
 ## "S4331 [SAT] Add surface area - Shape Compactness 
 >Request to have surface area by MUSC.  Instead of having surface area, shape index is added.  The value is normalized from 0 to 100. Value 100 means perfect sphere. "
 {.is-info}
+* "Load a lung study.
+* Open SAT tool panel, click on ""New"" button, choose ""single click"" and ""nodule"" mode, ""shift""+click on a nodule seed point. 
+* After the segmentation is done, measurement result will display. 
+* Right click on measurement and select “show/hide details” 
+* Check to add “Shape Compactness” and click OK
+* Beta message will be displayed."					
+
 ## S4308 [FT] Display CAD marker on perspective view (beta)
-
-
+* "In file ""AQi.exe.config"", find ""EnableBetaFunction"" and change its value to ""True"".
+* Something will be shown on perspective view"					
