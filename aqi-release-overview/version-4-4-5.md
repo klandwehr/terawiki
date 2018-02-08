@@ -88,3 +88,17 @@
 ### Commandline
 *    Load data with workflow template or element
 
+---
+
+# 4.4.5 Beta Features
+## S4370 [TVA] Colored Motion
+
+## "S3173 [CPR] Improvement for root definition
+>Request to have better root definition to avoid the looping carotid issue. "
+{.is-info}
+## "S4331 [SAT] Add surface area - Shape Compactness 
+>Request to have surface area by MUSC.  Instead of having surface area, shape index is added.  The value is normalized from 0 to 100. Value 100 means perfect sphere. "
+{.is-info}
+## S4308 [FT] Display CAD marker on perspective view (beta)
+
+
