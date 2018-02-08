@@ -129,3 +129,31 @@
 *    Grace period reduced from 24 hrs to 2 hrs
 *    License expiration date "permanent" instead of 12/31/2015"
 
+---
+
+# 4.4.6 Beta Features
+## S4370 [TVA] Colored Motion
+* "In ""C:\AQi\Bin\AQi.exe.config"", change ""EnableColoredMotion"" from ""False"" to ""True"".
+* Load 4D data into Cardiac workflow. Do ""EF"".
+* Confirm that ""Motion"" button is on the Result tab of control panel when calculation is done.
+* Press ""Motion"". Confirm that ""Colored Motion"" dialog box pops up. Images play cine automatically until color map is displayed for systolic motion.
+* Click on ""Diastolic"" radio button. Confirm that images play cine automatically until color map is displayed for diastolic motion."					
+
+## "S4331 [SAT] Add surface area - Shape Compactness 
+* "Load a lung study.
+* Open SAT tool panel, click on ""New"" button, choose ""single click"" and ""nodule"" mode, ""shift""+click on a nodule seed point. 
+* After the segmentation is done, measurement result will display. 
+* Right click on measurement and select “show/hide details” 
+* Check to add “Shape Compactness” and click OK
+* Beta message will be displayed."					
+
+
+## S3238 [TDA] Body CT Perfusion - BETA
+* "In ""C:\AQi\Config\AQi.cfg, add ""EnableBetaFunction = True""
+* Load body CT perfusion data into TDA (Body) workflow"					
+
+## BFA 3D - BETA
+
+
+
+
