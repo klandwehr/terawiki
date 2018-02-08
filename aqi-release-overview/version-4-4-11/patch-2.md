@@ -1,5 +1,5 @@
 <!-- TITLE: Patch 2 -->
-<!-- SUBTITLE: A quick summary of Patch 2 -->
+<!-- SUBTITLE: A quick summary of Version 4.4.11 Patch 2 -->
 
 # Version 4.4.11 Patch2
 ## Scope
